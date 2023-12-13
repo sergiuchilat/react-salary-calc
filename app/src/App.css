@@ -1,0 +1,14 @@
+.main-container{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3em;
+  margin: 3em;
+}
+
+.salary-bonus-item{
+  border-bottom: 1px solid gray;
+}
+
+.bonus-date{
+  color: blue;
+}
